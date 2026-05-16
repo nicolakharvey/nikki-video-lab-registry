@@ -1,6 +1,6 @@
-# hyperframes-registry
+# Nikki Video Lab Registry
 
-A Claude Code skill for installing and wiring registry blocks and components into HyperFrames compositions. Handles the `hyperframes add` command, install locations, wiring blocks as sub-compositions, and merging component snippets into host compositions.
+A Claude Code skill by Nikki Harvey for installing and wiring registry blocks and components into HyperFrames compositions. Handles the `hyperframes add` command, install locations, wiring blocks as sub-compositions, and merging component snippets into host compositions.
 
 ## What it covers
 
@@ -56,16 +56,16 @@ examples/
 ## Installing for Claude Code
 
 ```bash
-git clone https://github.com/nicolakharvey/hyperframes-registry.git ~/.claude/skills/hyperframes-registry
+git clone https://github.com/nicolakharvey/nikki-video-lab-registry.git ~/.claude/skills/nikki-video-lab-registry
 ```
 
 Claude Code picks up skills from `~/.claude/skills/` automatically. No restart needed.
 
-## Installing for Claude.ai
+## Installing for Claude desktop
 
 1. Download or clone this repo.
-2. Zip the `hyperframes-registry` folder.
-3. In Claude.ai, go to Settings > Capabilities > Skills.
+2. Zip the `nikki-video-lab-registry` folder.
+3. In Claude desktop, go to Settings > Capabilities > Skills.
 4. Upload the zip file.
 
 ## Using the skill
@@ -75,3 +75,7 @@ Once installed, Claude will use this skill automatically when you run `hyperfram
 > "Install the data-chart block and wire it into my composition at 5 seconds."
 > "Add the grain-overlay component to my intro scene."
 > "What blocks are available in the registry?"
+
+---
+
+Part of the **Nikki** suite of AI tools by [Nikki Harvey](https://linkedin.com/in/nicolakharvey).
