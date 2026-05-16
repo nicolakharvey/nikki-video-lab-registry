@@ -1,6 +1,6 @@
 # Nikki Video Lab Registry
 
-A Claude Code skill by Nikki Harvey for installing and wiring registry blocks and components into HyperFrames compositions. Handles the `hyperframes add` command, install locations, wiring blocks as sub-compositions, and merging component snippets into host compositions.
+A Claude Code skill by Nicola Harvey for installing and wiring registry blocks and components into HyperFrames compositions. Handles the `hyperframes add` command, install locations, wiring blocks as sub-compositions, and merging component snippets into host compositions.
 
 ## What it covers
 
@@ -78,4 +78,4 @@ Once installed, Claude will use this skill automatically when you run `hyperfram
 
 ---
 
-Part of the **Nikki** suite of AI tools by [Nikki Harvey](https://linkedin.com/in/nicolakharvey).
+Part of the **Nikki** suite of AI tools by [Nicola Harvey](https://linkedin.com/in/nicolakharvey).
